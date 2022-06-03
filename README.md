@@ -9,7 +9,7 @@ but with the power of Unity's Shader Graph System.
 ```
 ![alt text](https://fraglights.com/Pics/NanoTechPreview.jpg)
 
-# Lumix Lights
+# Ray Lights
 (Still WIP, currently no access)<br/>
 ```
 A GI lighting system similar to Lumen. A mixture of SSGI, VGI and SDF GI.
