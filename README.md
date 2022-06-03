@@ -1,5 +1,5 @@
 # The Unity Improver - Projects
-A compilation of useful tools for Unity.<br/> Access for sponsors via private repos. (Check availability first!)
+A compilation of useful tools for Unity.<br/> Access for sponsors via private repos. (Not yet available!)
 ---
 # Nano Tech
 (Still WIP, currently no access)<br/>
