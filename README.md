@@ -21,6 +21,7 @@ A GI lighting system similar to Lumen. A mixture of SSGI, VGI and SDF GI.
 ```
 SDF ray traced rendering for shadows and ambient occlusion.
 ```
+![alt text](https://fraglights.com/Pics/DFAOPreview.jpg)
 
 # Custom Asset Importer
 (Still WIP, currently no access)<br/>
