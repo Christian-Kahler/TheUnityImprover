@@ -27,6 +27,6 @@ SDF ray traced rendering for shadows and ambient occlusion.
 (Still WIP, currently no access)<br/>
 ```
 This tool will help you to decide, how and which assets are getting imported in your Unity project.
-This will improve the importing time, because you don't have to reimport the assets, 
+This will improve the import time, because you don't have to reimport the assets, 
 if they normally were not imported correctly by the Unity Editor.
 ```
