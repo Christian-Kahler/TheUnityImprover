@@ -38,4 +38,5 @@ It also supports better character interaction with the environment.
 This tool will help you to decide, how and which assets are getting imported in your Unity project.
 This will improve the import time, because you don't have to reimport the assets, 
 if they normally were not imported correctly by the Unity Editor.
+(Will be included into Nano Tech!)
 ```
