@@ -26,8 +26,9 @@ SDF ray traced rendering for shadows and ambient occlusion.
 # Unified Dynamics (GPU based)
 (Still WIP, currently no access)<br/>
 ```
-Unified Dynamics is built on my Cloth Dynamics Asset (V2), which will support all kinds of physics collisions,
+Unified Dynamics is built on my Cloth Dynamics Asset and will support all kinds of physics collisions,
 similar to NVIDIA's FleX, but with the advantage to run on all popular devices.
+It also supports better character interaction with the environment.
 ```
 ![alt text](https://fraglights.com/Pics/UnifiedDynamicsPreview.jpg)
 
